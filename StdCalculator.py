@@ -1,5 +1,5 @@
 import math
-import random
+import Lib.random as random
 
 operation = []
 while True:
